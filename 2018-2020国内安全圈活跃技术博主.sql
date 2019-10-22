@@ -5,24 +5,24 @@
      ID 	varchar(300),
      Security_ID 	varchar(300),
      Blog 	varchar(300),
-     个人/组织/公司 	varchar(300),
-     友情链接ID 	varchar(300),
+     Individual_Team_Company 	varchar(300),
+     Friend_Link_ID 	varchar(300),
      Github 	varchar(300),
-     微博 	varchar(300),
-     主要研究方向 	varchar(300),
-     组织机构 	varchar(300),
-     学校-公司 	varchar(300),
-     技能标签 	varchar(300),
-     人物标签 	varchar(300),
+     Weibo 	varchar(300),
+     Focus_On 	varchar(300),
+     Team 	varchar(300),
+     School_Company 	varchar(300),
+     Skills_Tags 	varchar(300),
+     Man_Tags 	varchar(300),
      RSS 	varchar(300),
-     twitter 	varchar(300),
-     zhihu 	varchar(300),
-     email 	varchar(300),
-     联系方式 	varchar(300),
-     代表作品_开源项目_安全产品 	varchar(255)
+     Twitter 	varchar(300),
+     Zhihu 	varchar(300),
+     Email 	varchar(300),
+     Contact 	varchar(300),
+     Famous_Projects 	varchar(255)
 );
 
-INSERT INTO table_name ( Learn , Follow , ID , Security_ID , Blog , 个人/组织/公司 , 友情链接ID , Github , 微博 , 主要研究方向 , 组织机构 , 学校-公司 , 技能标签 , 人物标签 , RSS , twitter , zhihu , email , 联系方式 , 代表作品_开源项目_安全产品 )
+INSERT INTO table_name ( Learn , Follow , ID , Security_ID , Blog , Individual_Team_Company , Friend_Link_ID , Github , Weibo , Focus_On , Team , School_Company , Skills_Tags , Man_Tags , RSS , Twitter , Zhihu , Email , Contact , Famous_Projects )
 VALUES
     ('-', '-', '1', 'L-team', 'http://l-team.org', '2', '2-3-4-5-6-7-8-9-10-11-12-13', '-', '-', 'CTF', 'XDSEC', '西安电子科技大学', '-', 'L-team', '-', '-', '-', '-', '-', '-'),
     ('-', '-', '2', 'DM_', '-', '1', '-', '-', 'https://www.weibo.com/wh01sDM?is_all=1', '-', 'XDSEC', '西电', '-', '-', '-', '-', '-', '-', '-', '-'),
@@ -290,7 +290,7 @@ VALUES
     ('-', '-', '264', '5am3', 'http://blog.5am3.com/', '1', '-', 'https://github.com/5am3', '-', 'CTF', '-', '河北师范大学', '-', '-', 'http://blog.5am3.com/atom.xml', '-', '-', 'i@5am3.com', '-', '-'),
     ('-', '-', '265', '小雨', 'https://www.yuag.org/', '1', '-', '-', '-', '渗透测试-代码审计-浏览器安全', '-', '-', '-', '-', 'http://www.yuag.org/feed/', '-', '-', 'asxyu@yuag.org', '-', '-'),
     ('-', '-', '266', 'legend', 'http://www.legendsec.org/', '1', '-', '-', '-', '渗透测试-0day', '-', '-', '-', '-', 'http://www.legendsec.org/feed', '-', '-', '-', '-', '-'),
-    ('-', '-', '267', 'Lion Ei'Jonson', 'http://www.lioneijonson.cn', '1', '-', 'https://github.com/LionEiJonson', '-', '代码审计-漏洞分析', '-', '-', '-', '-', '-', '-', '-', 'lingyonghong@silence.com.cn', '-', '-'),
+    ('-', '-', '267', 'Lion Ei Jonson', 'http://www.lioneijonson.cn', '1', '-', 'https://github.com/LionEiJonson', '-', '代码审计-漏洞分析', '-', '-', '-', '-', '-', '-', '-', 'lingyonghong@silence.com.cn', '-', '-'),
     ('-', '高频更新-质量不错', '268', 'Sariel.D', 'https://blog.sari3l.com/', '1', '-', 'https://github.com/sari3l', '-', 'Web安全-代码审计-漏洞分析-CTF', '-', '-', '-', '-', 'https://blog.sari3l.com/atom.xml', '-', '-', 'i4cu.sari@gmail.com', '-', '-'),
     ('-', '-', '269', 'kerling', 'http://kerlinglovsec.lofter.com/', '1', '-', '-', '-', 'CTF-漏洞分析-安全研究', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-'),
     ('-', '-', '270', 'Hone', 'http://hone.cool/', '1', '-', 'https://github.com/OneHone', '-', 'Web安全', '-', '-', '-', '-', 'http://hone.cool/atom.xml', '-', '-', 'H0ne@qq.com', '-', '-'),

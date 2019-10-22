@@ -1,4 +1,4 @@
-﻿Learn,Follow,ID,Security_ID,Blog,个人/组织/公司,友情链接ID,Github,微博,主要研究方向,组织机构,学校-公司,技能标签,人物标签,RSS,twitter,zhihu,email,联系方式,代表作品_开源项目_安全产品
+﻿Learn,Follow,ID,Security_ID,Blog,Individual_Team_Company,Friend_Link_ID,Github,Weibo,Focus_On,Team,School_Company,Skills_Tags,Man_Tags,RSS,Twitter,Zhihu,Email,Contact,Famous_Projects
 -,-,1,L-team,http://l-team.org,2,2-3-4-5-6-7-8-9-10-11-12-13,-,-,CTF,XDSEC,西安电子科技大学,-,L-team,-,-,-,-,-,-
 -,-,2,DM_,-,1,-,-,https://www.weibo.com/wh01sDM?is_all=1,-,XDSEC,西电,-,-,-,-,-,-,-,-
 Learning,-,3,phithon,https://www.leavesongs.com/,1,14-15-16-4-5-6-17-18-19-8-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39,https://github.com/phith0n,-,Web安全-代码审计-安全研究,XDSEC-Symbo1-Vulhub,西电-长亭,-,离别歌-乌云核心白帽子-文人黑客,-,-,-,-,-,-
@@ -265,7 +265,7 @@ Learning,-,238,Cyru1s|CyrusF,https://blog.cyru1s.com,1,141-239-240-142-241,https
 -,-,264,5am3,http://blog.5am3.com/,1,-,https://github.com/5am3,-,CTF,-,河北师范大学,-,-,http://blog.5am3.com/atom.xml,-,-,i@5am3.com,-,-
 -,-,265,小雨,https://www.yuag.org/,1,-,-,-,渗透测试-代码审计-浏览器安全,-,-,-,-,http://www.yuag.org/feed/,-,-,asxyu@yuag.org,-,-
 -,-,266,legend,http://www.legendsec.org/,1,-,-,-,渗透测试-0day,-,-,-,-,http://www.legendsec.org/feed,-,-,-,-,-
--,-,267,Lion Ei'Jonson,http://www.lioneijonson.cn,1,-,https://github.com/LionEiJonson,-,代码审计-漏洞分析,-,-,-,-,-,-,-,lingyonghong@silence.com.cn,-,-
+-,-,267,Lion Ei Jonson,http://www.lioneijonson.cn,1,-,https://github.com/LionEiJonson,-,代码审计-漏洞分析,-,-,-,-,-,-,-,lingyonghong@silence.com.cn,-,-
 -,高频更新-质量不错,268,Sariel.D,https://blog.sari3l.com/,1,-,https://github.com/sari3l,-,Web安全-代码审计-漏洞分析-CTF,-,-,-,-,https://blog.sari3l.com/atom.xml,-,-,i4cu.sari@gmail.com,-,-
 -,-,269,kerling,http://kerlinglovsec.lofter.com/,1,-,-,-,CTF-漏洞分析-安全研究,-,-,-,-,-,-,-,-,-,-
 -,-,270,Hone,http://hone.cool/,1,-,https://github.com/OneHone,-,Web安全,-,-,-,-,http://hone.cool/atom.xml,-,-,H0ne@qq.com,-,-
