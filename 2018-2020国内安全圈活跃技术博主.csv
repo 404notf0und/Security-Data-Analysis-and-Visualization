@@ -1,7 +1,7 @@
-﻿Learning,General_Evaluation,ID,Security_ID,Blog,个人/组织/公司,友情链接ID,Github,微博,主要研究方向,组织机构,学校-公司,技能标签,人物标签,RSS,twitter,zhihu,email,联系方式,代表作品_开源项目_安全产品
+﻿Learn,Follow,ID,Security_ID,Blog,个人/组织/公司,友情链接ID,Github,微博,主要研究方向,组织机构,学校-公司,技能标签,人物标签,RSS,twitter,zhihu,email,联系方式,代表作品_开源项目_安全产品
 -,-,1,L-team,http://l-team.org,2,2-3-4-5-6-7-8-9-10-11-12-13,-,-,CTF,XDSEC,西安电子科技大学,-,L-team,-,-,-,-,-,-
 -,-,2,DM_,-,1,-,-,https://www.weibo.com/wh01sDM?is_all=1,-,XDSEC,西电,-,-,-,-,-,-,-,-
-Follow,-,3,phithon,https://www.leavesongs.com/,1,14-15-16-4-5-6-17-18-19-8-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39,https://github.com/phith0n,-,Web安全-代码审计-安全研究,XDSEC-Symbo1-Vulhub,西电-长亭,-,离别歌-乌云核心白帽子-文人黑客,-,-,-,-,-,-
+Learning,-,3,phithon,https://www.leavesongs.com/,1,14-15-16-4-5-6-17-18-19-8-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39,https://github.com/phith0n,-,Web安全-代码审计-安全研究,XDSEC-Symbo1-Vulhub,西电-长亭,-,离别歌-乌云核心白帽子-文人黑客,-,-,-,-,-,-
 -,-,4,le4f|冷夜,http://le4f.net,1,14-1-3-40-41-2-20-19-6-5-42,-,-,安全研究,XDSEC,西电,-,-,http://le4f.net/feed,-,-,-,-,-
 -,-,5,b1gtang|糖果,https://bigtang.org/,1,-,-,https://www.weibo.com/b1gtang,逆向-密码学,XDSEC,西电,-,-,-,-,-,-,-,-
 -,-,6,Chu,http://sh3ll.me/,1,-,-,-,安全研究,XDSEC,西电,-,-,http://sh3ll.me/atom.xml,-,-,root@sh3ll.me,-,-
@@ -52,7 +52,7 @@ Follow,-,3,phithon,https://www.leavesongs.com/,1,14-15-16-4-5-6-17-18-19-8-20-21
 -,-,51,ChaMd5,http://www.chamd5.org/,2,-,-,-,安全组织,-,-,-,-,-,-,-,-,-,-
 -,-,52,bit4,http://www.code2sec.com/,1,118-54-99-161-3-16-50,https://github.com/bit4woo,-,漏洞分析-python安全,-,-,-,-,-,-,-,bit4woo@163.com,-,-
 -,-,53,Hack Safe网址导航,https://www.xssav.com/,2,-,-,-,安全导航,-,-,-,-,-,-,-,-,-,-
-Follow,-,54,薇拉vera|左左薇拉,https://www.zuozuovera.com/,1,162-52-16-163-39-160-165,https://github.com/verazuo,https://www.weibo.com/verazuozuo,机器学习-安全算法-数据分析-安全数据-入侵检测-威胁情报-知识图谱,-,电子科大-阿里巴巴,-,阅读-协作-分享-科幻,https://www.zuozuovera.com/feed/,https://twitter.com/verazuozuo,https://www.zhihu.com/people/verazuo/activities,-,-,-
+Learning,-,54,薇拉vera|左左薇拉,https://www.zuozuovera.com/,1,162-52-16-163-39-160-165,https://github.com/verazuo,https://www.weibo.com/verazuozuo,机器学习-安全算法-数据分析-安全数据-入侵检测-威胁情报-知识图谱,-,电子科大-阿里巴巴,-,阅读-协作-分享-科幻,https://www.zuozuovera.com/feed/,https://twitter.com/verazuozuo,https://www.zhihu.com/people/verazuo/activities,-,-,-
 -,-,55,梧桐百科,https://tricking.io/,2,-,-,-,安全百科,-,-,-,-,-,-,-,-,-,-
 -,-,56,江水,http://maya66.net.cn/,1,166-16,-,-,Web安全,-,-,-,-,-,-,-,-,-,-
 -,-,57,黑客街,https://www.hackjie.com/,2,-,-,-,安全导航,-,-,-,-,-,-,-,-,-,-
@@ -87,7 +87,7 @@ Follow,-,54,薇拉vera|左左薇拉,https://www.zuozuovera.com/,1,162-52-16-163-
 -,-,86,DarkRay,https://www.blackh4t.org/,1,-,https://github.com/darkr4y,-,渗透测试-逆向,-,-,C-C++-Python-PHP,-,-,https://twitter.com/darkr4y,-,darkr4y@gmail.com,-,-
 -,-,87,KINGX,https://kingx.me/,1,168-182,https://github.com/KxCode,https://www.weibo.com/u/1624430122,红蓝对抗-Java安全-漏洞分析,-,-,-,-,https://kingx.me/feed.xml,https://twitter.com/ShenYeYinJiu,-,-,-,-
 -,-,88,rebeyond,https://www.cnblogs.com/rebeyond/,1,-,-,-,安全研究,-,-,-,-,https://www.cnblogs.com/rebeyond/rss/,-,-,-,-,-
-Follow,-,89,安全小飞侠|avfisher,http://avfisher.win/,1,183-113,-,-,渗透测试-红队-企业安全建设,Symbo1,-,-,-,-,-,-,-,-,-
+Learning,-,89,安全小飞侠|avfisher,http://avfisher.win/,1,183-113,-,-,渗透测试-红队-企业安全建设,Symbo1,-,-,-,-,-,-,-,-,-
 -,-,90,Rvn0xsy|倾旋,https://payloads.online/,1,-,https://github.com/Rvn0xsy,-,红蓝对抗-安全研究-Windows安全,-,安恒,-,-,-,https://twitter.com/Rvn0xsy,-,rvn0xsy@gmail.com,微信id:Guest_Killer_0nlis,-
 -,-,91,anhkgg,https://anhkgg.com/,1,-,https://github.com/anhkgg,https://www.weibo.com/anhkgg,内核研究-逆向-安全研究,-,-,-,-,https://anhkgg.com/atom.xml,-,-,anhkgg@163.com,-,-
 -,高频更新-质量不错,92,3gstudent|三好学生,https://3gstudent.github.io/,1,-,https://github.com/3gstudent,-,安全研究-渗透测试-Windows安全-域渗透,-,-,-,-,https://3gstudent.github.io/3gstudent.github.io/feed.xml,https://twitter.com/3gstudent,-,-,-,-
@@ -143,7 +143,7 @@ Follow,-,89,安全小飞侠|avfisher,http://avfisher.win/,1,183-113,-,-,渗透�
 -,-,142,plusls,http://blog.plusls.cn,1,-,https://github.com/plusls,-,CTF-二进制安全,CNSS,电子科技大学,-,-,http://blog.plusls.cn/feeds/all.atom.xml,-,-,plusls@qq.com,-,-
 -,-,143,rickgray,http://rickgray.me/,1,-,https://github.com/RickGray,-,安全研究,-,-,-,-,http://rickgray.me/atom.xml,https://twitter.com/R1ckGr3y,-,rickchen.vip@gmail.com,-,-
 -,-,144,屌丝归档笔记|love枫,http://0cx.cc/,1,-,-,-,安全研究,-,-,-,-,-,-,-,-,-,-
-Follow,高频更新-质量不错,145,K0rz3n,https://www.k0rz3n.com/,1,7-242-185-163-35-223-243-3-6-27-244-38-245-106-246,https://github.com/K0rz3n,-,CTF,XDSEC-L team,-,-,-,https://www.k0rz3n.com/atom.xml,https://twitter.com/wb0zhang1,-,K0rz3n@163.com,-,-
+Learning,高频更新-质量不错,145,K0rz3n,https://www.k0rz3n.com/,1,7-242-185-163-35-223-243-3-6-27-244-38-245-106-246,https://github.com/K0rz3n,-,CTF,XDSEC-L team,-,-,-,https://www.k0rz3n.com/atom.xml,https://twitter.com/wb0zhang1,-,K0rz3n@163.com,-,-
 -,-,146,Ekkkkkkko,https://egguncle.github.io,1,-,-,-,安卓安全,-,-,-,-,-,-,-,-,-,-
 -,-,147,Balis0ng ,https://balis0ng.com/,1,119-124-45-64-247-248-149-199-39-249,-,-,Web安全-代码审计-渗透测试,Nu1L,-,PHP-Python-Java,Bug hunter,https://balis0ng.com/feed,https://twitter.com/Balis0nghack,-,-,-,-
 -,-,148,Sn00py,https://03i0.com/,1,-,-,-,CTF,-,成都信息工程大学,-,-,-,-,-,3022235906@qq.com,-,-
@@ -158,19 +158,19 @@ Follow,高频更新-质量不错,145,K0rz3n,https://www.k0rz3n.com/,1,7-242-185-
 -,-,157,Coco413,https://www.coco413.com,1,191,https://github.com/coco413,-,安全研究,-,-,-,-,https://www.coco413.com/feed,-,-,coco413ok@gmail.com,-,-
 -,-,158,西风微雨| Wester,https://lightrains.org/,1,-,https://github.com/We5ter,-,安全研究-红队-渗透测试,-,电子科技大学,-,-,-,https://twitter.com/wester0x01,https://www.zhihu.com/people/zhiyangzeng,alert@lightrains.org,-,-
 -,-,159,念茜,https://blog.csdn.net/yiyaaixuexi,1,-,-,-,移动安全-IOS安全-安卓安全,-,-,-,-,-,-,-,-,-,-
-Follow,-,160,cdxy,https://www.cdxy.me/,1,54-169-250-251-252,https://github.com/Xyntax,https://weibo.com/u/5518512548,渗透测试-CTF-蓝队-数据挖掘-机器学习,r3kapig,北京交通大学-阿里云安全,-,-,https://feed43.com/cdxy-home.xml,https://twitter.com/cdxy_,-,-,-,-
+Learning,-,160,cdxy,https://www.cdxy.me/,1,54-169-250-251-252,https://github.com/Xyntax,https://weibo.com/u/5518512548,渗透测试-CTF-蓝队-数据挖掘-机器学习,r3kapig,北京交通大学-阿里云安全,-,-,https://feed43.com/cdxy-home.xml,https://twitter.com/cdxy_,-,-,-,-
 -,-,161,廖新喜,http://xxlegend.com/,1,-,https://github.com/shengqi158,-,Web安全-安全研究-漏洞分析-代码审计,-,-,-,-,http://xxlegend.com/atom.xml,-,-,-,-,-
 -,-,162,donot,https://blog.donot.me/,1,54-136-165,-,-,Web安全-渗透测试-代码审计-入侵检测-数据挖掘,-,-,-,-,https://feedly.com/i/subscription/feed/https://blog.donot.me/rss/,https://twitter.com/wang_donot,-,-,-,-
-Follow,-,163,chybeta,https://chybeta.github.io/,1,253-254-223-256-45-250-39-54,https://github.com/chybeta,-,CTF-安全研究-漏洞分析-Web安全-代码审计,De1ta Team-Ph0en1x Team,厦门大学-阿里云安全,-,-,-,https://twitter.com/chybeta,https://www.zhihu.com/people/chybeta,-,-,-
+Learning,-,163,chybeta,https://chybeta.github.io/,1,253-254-223-256-45-250-39-54,https://github.com/chybeta,-,CTF-安全研究-漏洞分析-Web安全-代码审计,De1ta Team-Ph0en1x Team,厦门大学-阿里云安全,-,-,-,https://twitter.com/chybeta,https://www.zhihu.com/people/chybeta,-,-,-
 -,-,164,De1ta-Team,https://blog.de1ta.club/,2,-,https://github.com/De1ta-team,-,CTF-安全组织,De1ta Team,-,-,-,https://blog.de1ta.club/atom.xml,-,-,-,-,-
 -,CTF-高频更新-质量不错,165,Hurricane618|风之栖息地,http://hurricane618.me/,1,54-162,http://github.com/hurricane618,-,CTF-Web安全-PWN,-,-,-,-,http://hurricane618.me/atom.xml,http://twitter.com/hurricane_618,-,hurricane618@hotmail.com,-,-
 -,-,166,Vulkey_Chen,https://gh0st.cn/,1,-,https://github.com/gh0stkey,-,安全研究-渗透测试,米斯特安全团队,-,-,-,-,-,-,-,-,-
 -,-,167,L4oZu1,https://www.bodkin.ren/,1,-,-,-,渗透测试-逆向,-,-,-,-,-,-,-,-,-,-
 -,-,168,LonelyRain,http://lonelyrain.me/,1,-,https://github.com/cnlonelyrain,-,漏洞分析-安全研究,-,-,-,-,-,-,-,-,-,-
-Follow,-,169,LittleHann,https://www.cnblogs.com/LittleHann/,1,-,-,https://weibo.com/5197078982/profile?s=6cm7D0&is_hot=1,安全研究-机器学习,-,江南大学-阿里云安全,-,-,https://www.cnblogs.com/LittleHann/rss/,-,-,-,-,-
+Learning,-,169,LittleHann,https://www.cnblogs.com/LittleHann/,1,-,-,https://weibo.com/5197078982/profile?s=6cm7D0&is_hot=1,安全研究-机器学习,-,江南大学-阿里云安全,-,-,https://www.cnblogs.com/LittleHann/rss/,-,-,-,-,-
 -,-,170,lightless,https://lightless.me/,1,185-19-171-60,-,-,CTF-安全研究-漏洞分析-安全开发,-,杭州电子科技大学,-,-,-,-,-,-,-,-
-Follow,-,171,Feei|止介,https://feei.cn/,1,-,https://github.com/FeeiCN/,-,安全产品-安全架构,-,-,-,-,-,-,-,-,-,-
-Follow,漏洞分析-代码审计-高频更新-质量不错,172,雨了个雨,http://www.yulegeyu.com/,1,257-222-127,-,-,代码审计-安全研究,Nu1L,-,-,-,-,-,-,-,-,-
+Learning,-,171,Feei|止介,https://feei.cn/,1,-,https://github.com/FeeiCN/,-,安全产品-安全架构,-,-,-,-,-,-,-,-,-,-
+Learning,漏洞分析-代码审计-高频更新-质量不错,172,雨了个雨,http://www.yulegeyu.com/,1,257-222-127,-,-,代码审计-安全研究,Nu1L,-,-,-,-,-,-,-,-,-
 -,-,173,pirogue,http://pirogue.org/,1,161-258-62-193-259-260-261-262,https://github.com/p1r06u3,-,企业安全建设-安全开发,-,-,-,-,-,-,-,p1r06u3@gmail.com,-,-
 -,-,174,核心caijiji|klkx,https://caijiji.github.io/,1,-,-,-,企业安全建设,-,-,-,-,-,-,-,-,-,-
 -,-,175,Evi1cg,https://evi1cg.me/,1,92-71-99-249-263,https://github.com/Ridter,https://www.weibo.com/Ridter,渗透测试-安全研究,-,腾讯,-,-,https://evi1cg.me/atom.xml,https://twitter.com/Evi1cg,-,zuotonghk@gmail.com,-,-
@@ -181,7 +181,7 @@ Follow,漏洞分析-代码审计-高频更新-质量不错,172,雨了个雨,http
 -,-,180,RcoIl,https://rcoil.me/,1,191-182-269-32-84-270-271,https://github.com/RcoIl,-,渗透测试-内网渗透,-,-,-,-,-,-,-,rcoil.me@gmail.com,-,-
 -,-,181,大宇|dayu,https://dayu.ink,1,-,https://github.com/123dayu?tab=stars,-,安全研究,-,-,-,-,https://dayu.ink/atom.xml,-,-,-,-,-
 -,-,182,xnianq,http://xnianq.cn,1,87-180-272-273,https://github.com/xnianq,-,CTF-渗透测试,-,合肥工业大学,-,-,-,https://twitter.com/xnianq1,-,xnianq@gmail.com,85903963,-
-Follow,-,183,shell-storm,http://shell-storm.org/,1,-,https://github.com/JonathanSalwan/,-,逆向-二进制安全-安全研究,Quarkslab,-,-,-,http://shell-storm.org/rss.xml,https://twitter.com/JonathanSalwan,-,jonathan.salwan%20gmail%20com,-,-
+Learning,-,183,shell-storm,http://shell-storm.org/,1,-,https://github.com/JonathanSalwan/,-,逆向-二进制安全-安全研究,Quarkslab,-,-,-,http://shell-storm.org/rss.xml,https://twitter.com/JonathanSalwan,-,jonathan.salwan%20gmail%20com,-,-
 -,-,184,__画船听雨,http://blog.nuptzj.cn/,1,59-64-127-140,-,http://weibo.com/u/2882345664,CTF-Web安全,X1cT34m-Nu1L,南京邮电大学,-,-,-,-,-,-,-,-
 -,-,185,LoRexxar,https://www.lorexxar.cn/,1,170-154-64-99-131,https://github.com/LoRexxar,-,Web安全-CTF-代码审计-智能合约-区块链安全,Vidar Team-404 Team ,杭州电子科技大学-知道创宇,-,-,https://www.lorexxar.cn/atom.xml,-,https://www.zhihu.com/people/romor-rexxar,lorexxar@gmail.com,-,-
 -,-,186,呆子不开口,https://lvwei.me,1,-,-,https://www.weibo.com/277634777,安全研究,-,-,-,老前辈,-,-,-,-,-,-
@@ -236,29 +236,29 @@ Follow,-,183,shell-storm,http://shell-storm.org/,1,-,https://github.com/Jonathan
 -,-,235,retme7|Di Shen,http://retme.net/,1,-,https://github.com/retme7,https://weibo.com/super7dd,安卓安全-Windows内核,-,北京邮电大学-腾讯科恩实验室,-,-,-,https://twitter.com/returnsme,-,retme7#gmail.com,-,-
 -,-,236,我是小三,https://www.cnblogs.com/2014asm/,1,-,-,-,安卓安全,-,-,-,-,https://www.cnblogs.com/2014asm/rss/,-,-,-,-,-
 -,-,237,BrieflyX,http://brieflyx.me/,1,128-138,https://github.com/BrieflyX,-,CTF-PWN,-,清华大学-阿里巴巴,-,-,-,-,-,-,-,-
-Follow,-,238,Cyru1s|CyrusF,https://blog.cyru1s.com,1,141-239-240-142-241,https://github.com/CyrusF,-,CTF-安全开发,CNSS,电子科技大学-字节跳动AILab安全工程师,-,-,-,-,-,-,-,-
+Learning,-,238,Cyru1s|CyrusF,https://blog.cyru1s.com,1,141-239-240-142-241,https://github.com/CyrusF,-,CTF-安全开发,CNSS,电子科技大学-字节跳动AILab安全工程师,-,-,-,-,-,-,-,-
 -,-,239,MitAh,http://mitah.cn,1,142-238-240,-,-,CTF,CNSS,电子科技大学,-,-,-,-,-,-,-,-
 -,-,240,Kyrios,https://blog.kyrios.cn,1,142-238-239,-,-,CTF,CNSS,电子科技大学,-,-,-,-,-,-,-,-
 -,-,241,evi0s,https://evi0s.com/,1,-,https://github.com/evi0s,-,CTF,CNSS,电子科技大学,-,-,-,-,-,-,-,-
 -,-,242,zsx,https://blog.zsxsoft.com/,1,-,https://github.com/zsxsoft,-,CTF,-,福州大学,-,-,-,-,-,zsx@zsxsoft.com,-,-
 -,-,243,f1sh,http://f1sh.site/,1,320-1-7-13-14-321-8-145-304-223,-,https://www.weibo.com/u/5218803673,CTF-代码审计-Web安全,L team-FlappyPig-r3kapig,-,-,-,-,-,-,root@f1sh.site,-,-
--,-,244,超威蓝猫,http://blog.cal1.cn/,1,-,-,https://weibo.com/u/2614464633?is_hot=1,CTF,ROIS-r3kapig,福州大学,-,-,-,-,-,cursered@gmail.com,-,-
--,-,245,Cytosine,https://cyto.top/,1,-,https://github.com/Lovegood,-,CTF-Web安全,-,西安邮电大学,-,-,https://cyto.top/atom.xml,-,-,-,-,-
--,-,246,cjk123,http://www.ckj123.com/,1,-,-,-,CTF,Vidar team,杭州电子科技大学,-,-,-,-,-,-,QQ: 491565693 WX: ckj313,-
--,-,247,rai4over,http://www.rai4over.cn/,1,-,-,-,CTF,-,-,-,-,-,-,-,rai4over@gmail.com,-,-
--,-,248,404notfound,http://4o4notfound.org/,1,-,https://github.com/404notf0und,-,代码审计-机器学习-安全算法,-,-,-,-,-,-,-,root#4o4notfound.org,-,-
--,-,249,Patrilic,https://patrilic.top/,1,-,https://github.com/patrilic,-,CTF-红队-渗透测试-漏洞分析,D0g3,成都信息工程大学,-,-,-,-,-,patrilic@outlook.com,-,-
--,-,250,louys,http://www.louys.net.cn,1,-,-,-,Web安全-CTF,-,-,-,-,http://www.louys.net.cn/index.php/feed,-,-,-,-,-
--,-,251,superfish,http://www.sfishlost.com/,1,-,-,-,安全研究,-,-,-,-,-,-,-,-,-,-
--,-,252,xmsec,https://www.xmsec.cc/,1,-,https://github.com/xmsec,-,CTF,-,北京航空航天大学,-,-,https://www.xmsec.cc/rss/,-,-,xmsec@xmsec.cc,-,-
+-,-,244,超威蓝猫,http://blog.cal1.cn/,1,38-64-242-185-3-154-62-257,-,https://weibo.com/u/2614464633?is_hot=1,CTF,ROIS-r3kapig,福州大学,-,-,-,-,-,cursered@gmail.com,-,-
+-,-,245,Cytosine,https://cyto.top/,1,326-145-12-314-284-204-7-315-27-323-327-224-69-328-332-333-334-219-304-276-335-336-337,https://github.com/Lovegood,-,CTF-Web安全,-,西安邮电大学,-,-,https://cyto.top/atom.xml,-,-,-,-,-
+-,-,246,cjk123,http://www.ckj123.com/,1,338-145-276,-,-,CTF,Vidar team,杭州电子科技大学,-,-,-,-,-,-,QQ: 491565693 WX: ckj313,-
+-,-,247,rai4over,http://www.rai4over.cn/,1,147-339,-,-,CTF,-,-,-,-,-,-,-,rai4over@gmail.com,-,-
+-,-,248,404notfound,http://4o4notfound.org/,1,3-147-163-340-223-145,https://github.com/404notf0und,-,代码审计-机器学习-安全算法,-,-,-,-,-,-,-,root#4o4notfound.org,-,-
+-,-,249,Patrilic,https://patrilic.top/,1,147-175-341-342-343-344-345-346,https://github.com/patrilic,-,CTF-红队-渗透测试-漏洞分析,D0g3,成都信息工程大学,-,-,-,-,-,patrilic@outlook.com,-,-
+-,-,250,louys,http://www.louys.net.cn,1,160-163-347-348,-,-,Web安全-CTF,-,-,-,-,http://www.louys.net.cn/index.php/feed,-,-,-,-,-
+-,-,251,superfish,http://www.sfishlost.com/,1,-,-,-,安全研究,-,-,-,-,-,-,-,sfish9hello@gmail.com,-,-
+-,CTF-高频更新-质量不错,252,xmsec|陌小生,https://www.xmsec.cc/,1,160-349,https://github.com/xmsec,-,CTF,-,北京航空航天大学,-,-,https://www.xmsec.cc/rss/,-,-,xmsec@xmsec.cc,-,-
 -,-,253,XMU-Ph0en1x,https://ph0en1x.com/,2,254-255-163,-,-,安全组织,Ph0en1x Team,厦门大学,-,-,-,-,-,-,-,-
 -,-,254,findneo,https://findneo.github.io/,1,-,https://github.com/findneo,-,CTF-Web安全,Ph0en1x Team,厦门大学,-,-,https://twitter.com/findneo_,https://twitter.com/findneo_,-,-,-,-
 -,-,255,kangel,https://j-kangel.github.io/,1,-,-,-,CTF-PWN,Ph0en1x Team,厦门大学,-,-,https://j-kangel.github.io/atom.xml,-,-,-,-,-
--,-,256,Ginove,https://ginove.github.io/,1,-,-,-,CTF-PWN,-,-,-,-,-,-,-,-,QQ:997678485,-
+-,-,256,Ginove,https://ginove.github.io/,1,-,https://github.com/ginove,-,CTF-PWN,-,-,-,-,-,-,-,997678485@qq.com,QQ:997678485,-
 -,-,257,Salt,https://5alt.me/,1,-,https://github.com/5alt/,-,CTF-Web安全-安全研究,-,-,-,-,https://5alt.me/atom.xml,https://twitter.com/md5_salt,-,md5_salt@qq.com,-,-
 -,-,258,lyy,http://ksowo.com,1,-,-,-,信息安全管理-ISO27001,-,-,-,-,-,-,-,304296280@qq.com,-,-
 -,-,259,超级大黑猫|国产大熊猫,https://my.oschina.net/9199771,1,-,-,-,企业安全建设-安全研究,-,-,-,-,-,-,-,-,-,-
--,-,260,Yunen,https://www.0x002.com/,1,-,https://github.com/hackeryunen,-,CTF-Web安全,-,重庆大学,-,-,https://www.0x002.com/atom.xml,-,-,yunen@cqu.edu.cn,-,-
+-,-,260,Yunen,https://www.0x002.com/,1,173-350-351,https://github.com/hackeryunen,-,CTF-Web安全,-,重庆大学,-,-,https://www.0x002.com/atom.xml,-,-,yunen@cqu.edu.cn,-,-
 -,-,261,Pa55w0rd,https://www.pa55w0rd.online/,1,-,https://github.com/Pa55w0rd,-,Web安全-企业安全建设-安全编码,-,-,-,-,https://www.pa55w0rd.online/atom.xml,-,-,-,-,-
 -,-,262,Cotton,http://www.mianhuage.com,1,-,-,-,CTF-Web安全-渗透测试-安全研究-漏洞分析,-,-,-,-,-,-,-,-,QQ:360783460,-
 -,-,263,bPJoanna,https://0u0.im,1,-,-,-,CTF-漏洞挖掘,-,-,-,-,-,-,-,-,-,-
@@ -273,10 +273,10 @@ Follow,-,238,Cyru1s|CyrusF,https://blog.cyru1s.com,1,141-239-240-142-241,https:/
 -,-,272,tr1ple|Wfzsec,https://www.cnblogs.com/wfzWebSecuity/,1,-,https://github.com/Wfzsec,-,CTF-代码审计-Java代码审计,-,东南大学,-,-,https://www.cnblogs.com/wfzWebSecuity/rss/,-,-,tr1ple@foxmail.com,-,-
 -,-,273,Aryb1n,https://aryb1n.github.io,1,-,-,-,CTF,-,-,-,-,-,-,-,-,-,-
 -,-,274,test404,https://www.cnblogs.com/test404/,1,-,-,-,Web安全-代码审计-CTF,-,-,-,-,-,-,-,-,-,-
-Follow,-,275,Laucyun,https://laucyun.com/,1,-,-,-,安全研究-漏洞分析-工控安全-网络协议分析,-,-,-,-,-,-,-,-,-,-
+Learning,-,275,Laucyun,https://laucyun.com/,1,-,-,-,安全研究-漏洞分析-工控安全-网络协议分析,-,-,-,-,-,-,-,-,-,-
 -,-,276,l1nk3r,http://www.lmxspace.com,1,-,https://github.com/SukaraLin/,-,漏洞分析-安全研究-Web安全-安全服务,-,厦门理工学院-安恒,-,-,-,-,-,sukaralin@gmail.com,-,-
 -,-,277,z3r0yu,http://zeroyu.xyz/,1,-,https://github.com/zer0yu,http://weibo.com/Z3r0yu,CTF-红队,PolarisLab,-,-,-,-,https://twitter.com/zeroyu_,-,zeroyu.xyz@gmail.com,-,-
-Follow,代码审计-高频更新-质量不错,278,Mochazz,https://mochazz.github.io/,1,-,-,-,代码审计,-,-,-,-,-,-,-,-,-,-
+Learning,代码审计-高频更新-质量不错,278,Mochazz,https://mochazz.github.io/,1,-,-,-,代码审计,-,-,-,-,-,-,-,-,-,-
 -,PWN-高频更新-质量不错,279,maple,http://m4p1e.com,1,-,https://github.com/m4p1e,-,CTF-PWN-Web安全,-,-,-,-,-,-,-,maple_#outlook.com,-,-
 -,-,280,MoR03r,https://www.kkzevip.com/,1,-,-,-,CTF-渗透测试,-,-,-,-,-,-,-,-,-,-
 -,-,281,shiyan,http://sh1yan.top/,1,-,https://github.com/shiyan-520,-,安全研究-Windows安全,226 Team,-,-,-,-,-,https://www.zhihu.com/people/shiyan.vip/activities,-,-,-
@@ -305,22 +305,48 @@ Follow,代码审计-高频更新-质量不错,278,Mochazz,https://mochazz.github
 -,-,304,iosmosis,https://iosmosis.github.io/,1,-,https://github.com/iosmosis,-,二进制安全,-,-,-,-,https://iosmosis.github.io/atom.xml,-,-,-,qq：2417117320,-
 -,-,305,漏洞时代,http://www.0day5.com/,1,-,-,-,漏洞分析,-,-,-,-,-,-,-,-,-,-
 -,-,306,Atum,http://atum.li,1,-,https://github.com/a7um,-,CTF-软件安全-系统安全,blue lotus-r3kapig-Eur3kA,北京大学-腾讯玄武,-,-,-,-,-,lgcpku@gmail.com,-,-
-Follow,高频更新-质量不错,307,梅子酒,https://meizjm3i.github.io/,1,-,https://github.com/meizjm3i,-,CTF-安全研究,Nu1L,南京邮电大学,-,-,-,-,-,960596293@qq.com,QQ : 960596293,-
+Learning,高频更新-质量不错,307,梅子酒,https://meizjm3i.github.io/,1,-,https://github.com/meizjm3i,-,CTF-安全研究,Nu1L,南京邮电大学,-,-,-,-,-,960596293@qq.com,QQ : 960596293,-
 -,-,308,xia0,http://4ch12dy.site/,1,-,https://github.com/4ch12dy,-,安卓安全-iOS安全-逆向-IoT安全,-,-,-,-,-,https://twitter.com/x1a0Z,https://www.zhihu.com/people/eee-face/activities,939529983@qq.com,-,-
 -,-,309,peterpan,https://peterpan980927.cn/,1,-,https://github.com/Peterpan0927,https://weibo.com/u/5999539768,系统安全-浏览器安全,-,360-阿里巴巴,-,-,-,https://twitter.com/Peterpan980927,-,-,-,-
 -,-,310,Daybr4ak,https://daybr4ak.github.io/,1,-,-,-,代码审计-红队,Chamd5,-,-,-,-,-,-,-,-,-
 -,-,311,AdminTony,http://admintony.com/,1,-,-,-,Web安全-渗透测试,-,-,-,-,-,-,-,-,QQ:78941695,-
-Follow,高频更新-质量不错,312,smi1e,https://www.smi1e.top,1,-,https://github.com/Smi1eSEC,https://weibo.com/6460281198/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1,Web安全-CTF-漏洞分析-代码审计,Nu1L,-,-,-,-,https://twitter.com/Smi1e_521?lang=zh-cn,-,-,QQ：1277335411,-
+Learning,高频更新-质量不错,312,smi1e,https://www.smi1e.top,1,-,https://github.com/Smi1eSEC,https://weibo.com/6460281198/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1,Web安全-CTF-漏洞分析-代码审计,Nu1L,-,-,-,-,https://twitter.com/Smi1e_521?lang=zh-cn,-,-,QQ：1277335411,-
 -,-,313,Pav1,http://pav1.cc,1,-,-,-,CTF-漏洞分析,-,-,-,-,-,-,-,-,-,-
-Follow,高频更新-质量不错,314,Sky,https://skysec.top/,1,-,https://github.com/skyofkinglove,https://weibo.com/skysec,CTF-Web安全,r3kapig-whitzard,中国矿业大学-复旦大学,-,-,https://skysec.top/atom.xml,-,https://www.zhihu.com/people/syk1224/activities,skysec@aliyun.com,-,-
--,-,315,CodeMonster,https://www.codemonster.cn/,1,-,https://github.com/xishir,-,CTF-漏洞分析,De1ta,-,-,-,https://www.codemonster.cn/atom.xml,-,-,-,-,-
+Learning,高频更新-质量不错,314,Sky,https://skysec.top/,1,-,https://github.com/skyofkinglove,https://weibo.com/skysec,CTF-Web安全,r3kapig-whitzard,中国矿业大学-复旦大学,-,-,https://skysec.top/atom.xml,-,https://www.zhihu.com/people/syk1224/activities,skysec@aliyun.com,-,-
+-,-,315,Xishir ,https://www.codemonster.cn/,1,-,https://github.com/xishir,-,CTF-漏洞分析,De1ta,厦门理工学院,-,-,https://www.codemonster.cn/atom.xml,-,-,-,-,-
 -,-,316,GetFlag,http://flag0.com,1,-,-,-,CTF-Web安全,-,-,-,-,-,-,-,-,-,-
 -,-,317,郁离歌,http://yulige.top/,1,-,-,-,CTF-Web安全,-,-,-,-,-,-,-,-,-,-
-Follow,文章总量多-质量不错,318,w8ayy,https://x.hacking8.com/,1,-,https://github.com/boy-hack,-,安全开发,-,-,-,-,-,-,-,-,-,-
+Learning,文章总量多-质量不错,318,w8ayy,https://x.hacking8.com/,1,-,https://github.com/boy-hack,-,安全开发,-,-,-,-,-,-,-,-,-,-
 -,-,319,追光者,https://www.sec.kim/,1,-,-,-,渗透测试,-,-,-,-,-,-,-,-,-,-
 -,-,320,r3kapig,https://r3kapig.com/,2,38-128-216-217-219-243-298-306-314-322-323-324-325,-,-,安全组织-CTF,Eur3kA-FlappyPig,-,-,-,-,-,-,-,-,-
 -,-,321,Notwo1f|Notwolf,https://notwo1f.github.io,1,-,https://github.com/notwo1f,-,CTF-逆向,-,-,-,-,-,-,-,notwolf888@gmail.com,-,-
 -,-,322,Bibi,https://beafb1b1.github.io/,1,-,https://github.com/beafb1b1,-,CTF-内核-区块链-PWN-密码学,-,-,-,-,-,-,-,beafb1b1@gmail.com,-,-
--,-,323,NightShadow,https://blog.csdn.net/whklhhhh,1,-,-,-,CTF-逆向-PWN,-,-,-,-,https://blog.csdn.net/whklhhhh/rss/list,-,-,-,-,-
+-,逆向-高频更新-质量不错,323,NightShadow|奈沙夜影,https://blog.csdn.net/whklhhhh,1,-,-,-,CTF-逆向-PWN,-,-,-,-,https://blog.csdn.net/whklhhhh/rss/list,-,-,-,-,-
 -,-,324,n0b0dy,https://n0b0dycn.me,1,-,https://github.com/n0b0dyCN,-,CTF-安全研究,Eur3kA-r3kapig,北京大学-北京大学王选计算机研究所,-,-,-,-,-,n0b0dypku@gmail.com,-,-
-Follow,-,325,stypr,https://blog.harold.kim/,1,-,https://github.com/stypr,-,CTF-安全研究,r3kapig,多伦多大学-LINE,-,-,-,-,-,me@harold.kim,-,-
+Learning,-,325,stypr,https://blog.harold.kim/,1,-,https://github.com/stypr,-,CTF-安全研究,r3kapig,多伦多大学-LINE,-,-,-,-,-,me@harold.kim,-,-
+-,-,326,暗羽,https://darkwing.moe/,1,-,https://github.com/zjicmDarkWing,https://www.weibo.com/zjicmDarkWing,CTF-PWN,-,-,-,-,-,-,-,1126955201@qq.com,-,-
+-,-,327,Cosmos,http://blog.thecosmos.cn/,1,-,-,-,CTF,厦门理工学院信息安全协会,厦门理工学院,-,-,http://blog.thecosmos.cn/index.php/feed/,-,-,-,-,-
+-,-,328,White,https://white.xmutsec.com/,1,-,-,-,CTF,厦门理工学院信息安全协会,厦门理工学院,-,-,-,-,-,-,-,-
+-,-,329,XMUTSEC,http://www.xmutsec.com,2,331-276-315-328-327-330,-,-,安全组织-CTF,厦门理工学院信息安全协会,厦门理工学院,-,-,-,-,-,-,-,-
+-,-,330,Southseast,https://southseast.cc/,1,-,https://github.com/southseast,-,CTF,厦门理工学院信息安全协会,厦门理工学院,-,-,-,-,-,southseast@foxmail.com,-,-
+-,-,331,backCover7,https://blog.backcover7.cc,1,-,https://github.com/backcover7,-,渗透测试-漏洞分析-Java安全-安全服务,-,厦门理工学院-纽约大学,-,-,-,-,-,hou1417x@gmail.com,-,-
+-,-,332,江sir,http://www.blogsir.com.cn/,1,-,https://github.com/jiangsir404,-,CTF-漏洞分析,-,-,-,-,-,-,-,2461805286@qq.com,-,-
+-,-,333,greyd0g,https://greyd0g.github.io/,1,-,-,-,CTF,-,-,-,-,-,-,-,-,-,-
+-,-,334,Brucetg,https://brucetg.github.io/,1,-,https://github.com/Brucetg,-,安全研究,-,-,-,-,https://brucetg.github.io/atom.xml,-,-,-,-,-
+-,-,335,Map1e,https://www.evi1s.com,1,-,-,-,Web安全-PHP代码审计,-,-,-,-,-,-,-,-,-,-
+-,-,336,sauren,https://www.sk15.net/,1,-,https://github.com/sauren-daxia,https://weibo.com/u/5067971304?is_hot=1,渗透测试-漏洞分析,-,-,-,-,-,-,-,-,-,-
+-,-,337,T1h2ua,http://www.t1h2ua.cn,1,-,-,-,渗透测试,-,-,-,-,-,-,-,-,-,-
+-,-,338,li4n0,http://0n0.fun/,1,-,-,-,CTF-安全研究-漏洞挖掘,Vidar-Team,杭州电子科技大学,-,-,-,-,-,-,-,-
+-,主机安全-高频更新-质量不错,339,spoock,https://blog.spoock.com,1,-,-,-,主机安全-Java安全-容器安全,-,-,-,-,-,-,-,me@spoock.com,-,-
+Learning,反入侵-高频更新-质量不错,340,Mour,https://iami.xyz/,1,-,https://github.com/mylamour,-,入侵检测-Web安全-机器学习-企业安全建设,-,比特币中国-阿里本地生活,-,-,-,-,-,mour@iami.xyz,-,-
+-,CTF-代码审计-高频更新-质量不错,341,Hpdoger,https://hpdoger.cn,1,-,https://github.com/Hpd0ger,-,CTF-前端安全-PHP代码审计,D0g3,成都信息工程大学,-,-,https://hpdoger.cn/atom.xml,-,-,-,-,-
+-,-,342,Passer6y,https://0day.design,1,-,https://github.com/passer6y,-,CTF-Web安全-漏洞分析,D0g3,成都信息工程大学,-,-,-,-,-,passer6y@d0g3.cn,-,-
+-,漏洞分析-高频更新-质量不错,343,Hu3sky,http://adm1n.design/,1,-,http://github.com/Hu3sky,-,CTF-Web安全-漏洞分析-漏洞挖掘,D0g3,成都信息工程大学,-,-,-,-,-,hu3sky@d0g3.cn,QQ：791683914,-
+-,-,344,0aKarmA|骅文,https://www.0akarma.com,1,-,-,https://weibo.com/akkayin,CTF-渗透测试-代码审计,D0g3,成都信息工程大学,-,-,-,https://twitter.com/harold_kung,-,karma@d0g3.cn,-,-
+-,-,345,H4lo,https://www.cnblogs.com/H4lo,1,-,-,-,PWN-路由器漏洞挖掘,-,-,-,-,https://www.cnblogs.com/H4lo/rss/,-,-,-,-,-
+-,-,346,Kingkk,https://www.kingkk.com/,1,-,-,-,CTF-漏洞分析-Web安全,-,拼多多安全实习,-,-,-,-,-,hao511025@qq.com,-,-
+Learning,-,347,momomoxiaoxi|默小西,http://momomoxiaoxi.com/,1,-,-,-,CTF-代码审计-红队-内网渗透-机器学习-区块链-安全研究,Blue lotus-Redbud,清华大学网络与信息安全实验室研究生,-,-,http://momomoxiaoxi.com/feed.xml,-,-,momomomoxiaoxi@gmail.com,-,-
+-,-,348,chiahao,http://chiahao.top,1,-,-,-,Web安全-安卓安全-渗透测试,-,-,-,-,-,-,-,-,-,-
+-,-,349,ShadowGlint,https://love-sg.me,1,-,-,https://www.weibo.com/p/1005055546849888/home?from=page_100505&mod=TAB#place,CTF-Web安全,Chamd5,西北工业大学,-,-,https://love-sg.me/atom.xml,-,-,sg@chamd5.org,-,-
+-,高频更新-质量不错,350,Safe6,http://www.safe6.cn,1,-,-,-,安全研究,-,-,-,-,-,-,-,-,qq1850597152,-
+-,-,351,Glzjin,https://www.zhaoj.in/,1,-,-,-,CTF,-,-,-,-,-,https://twitter.com/glzjin,-,-,-,-
