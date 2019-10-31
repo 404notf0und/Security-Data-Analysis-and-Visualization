@@ -1,5 +1,8 @@
 # Security-Data-Analysis-and-Visualization
 ## 2018-2020青年安全圈-活跃技术博主/博客
+## 声明
+* 所有数据均来自且仅来自公开信息，未加入个人先验知识，如有疑义，请及时联系root@4o4notfound.org。
+* 公开这批数据是为了大家一起更快更好地学习，请不要滥用这批数据，由此引发的问题，本人将概不负责。
 
 ## Why
 - **最初目的**：个人日常安全阅读资源不足，需要从博客、Github、Twitter等多个数据源补充。
@@ -240,6 +243,3 @@
 - [mylamour的issues](https://github.com/mylamour/blog/issues)
 - [BurpSuite-collections:BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程](https://github.com/Mr-xn/BurpSuite-collections)
 
-
-## 声明
-* 所有数据均来自且仅来自公开信息，未加入个人先验知识，如有疑义，请及时联系root@4o4notfound.org。
