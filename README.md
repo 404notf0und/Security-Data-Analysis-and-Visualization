@@ -34,7 +34,10 @@
 * 输出一份Github与大安全资源。
 ## Github&&大安全
 
-最近更新时间：2019/10/29
+最近更新时间：2019/12/15
+
+最近新增：
+- [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
 
 目录：
 - [安全知识大综合](#安全知识大综合)
@@ -130,6 +133,7 @@
 - [ew:内网穿透(跨平台)](https://github.com/idlefire/ew)
 - [python-hacker-code:《python黑帽子：黑客与渗透测试编程之道》代码及实验文件，字典等](https://github.com/giantbranch/python-hacker-code)
 - [The-Hacker-Playbook-3-Translation:译渗透测试实战第三版(红队版)](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
+- [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
 ### 渗透测试工具
 - [WebPocket:Exploit management framework](https://github.com/TuuuNya/WebPocket)
 - [pentest_tools:收集一些小型实用的工具](https://github.com/l3m0n/pentest_tools)
