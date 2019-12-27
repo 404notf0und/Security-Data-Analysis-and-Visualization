@@ -34,10 +34,11 @@
 * 输出一份Github与大安全资源。
 ## Github&&大安全
 
-最近更新时间：2019/12/15
+最近更新时间：2019/12/27
 
 最近新增：
 - [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
+- [get_domain：域名收集与监测V3.0](https://github.com/guimaizi/get_domain)
 
 目录：
 - [安全知识大综合](#安全知识大综合)
@@ -208,11 +209,12 @@
 - [AI-for-Security-Learning:安全场景、基于AI的安全算法和安全数据分析学习资料整理](https://github.com/404notf0und/AI-for-Security-Learning)
 - [AI-Security-Learning:自身学习的安全数据科学和算法的学习资料](https://github.com/0xMJ/AI-Security-Learning)
 
-## 域名相关安全工具
+## 域名相关工具
 - [dnsAutoRebinding:ssrf、ssrfIntranetFuzz、dnsRebinding、recordEncode、dnsPoisoning、Support ipv4/ipv6](https://github.com/Tr3jer/dnsAutoRebinding)
 - [domain_hunter:利用burp收集整个企业、组织的域名（不仅仅是单个主域名）的插件](https://github.com/bit4woo/domain_hunter)
 - [GSDF:A domain searcher named GoogleSSLdomainFinder - 基于谷歌SSL透明证书的子域名查询工具](https://github.com/We5ter/GSDF)
 - [ESD:枚举子域名](https://github.com/FeeiCN/ESD)
+- [get_domain：域名收集与监测V3.0](https://github.com/guimaizi/get_domain)
 
 ## 密码相关工具
 - [sarkara:A experimental post-quantum cryptography library](https://github.com/quininer/sarkara)
