@@ -34,9 +34,11 @@
 * 输出一份Github与大安全资源。
 ## Github&&大安全
 
-最近更新时间：2019/12/27
+2020-01-02
 
-最近新增：
+- [FOFA Pro View：FOFA Pro 资产展示浏览器插件](https://github.com/0nise/fofa_view)
+
+2019-12-27
 - [从0开始你的域渗透之旅](https://github.com/crazywa1ker/DarthSidious-Chinese)
 - [get_domain：域名收集与监测V3.0](https://github.com/guimaizi/get_domain)
 
@@ -148,6 +150,7 @@
 - [Pentest-tools:内网渗透工具](https://github.com/Brucetg/Pentest-tools)
 - [TrackRay:溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）](https://github.com/iSafeBlue/TrackRay)
 - [saucerframe:python3批量poc检测工具](https://github.com/saucer-man/saucerframe)
+- [FOFA Pro View：FOFA Pro 资产展示浏览器插件](https://github.com/0nise/fofa_view)
 
 ## 红队
 - [Covenant:Covenant is a collaborative .NET C2 framework for red teamers](https://github.com/cobbr/Covenant)
