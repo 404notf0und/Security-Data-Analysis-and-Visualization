@@ -34,6 +34,14 @@
 * 输出一份Github与大安全资源。
 ## Github&&大安全
 
+2020-03-12
+
+- [fuzzDicts：Web Pentesting Fuzz 字典](https://github.com/TheKingOfDuck/fuzzDicts)
+- [FileMonitor：文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)](https://github.com/TheKingOfDuck/FileMonitor)
+- [MySQLMonitor：MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)](https://github.com/TheKingOfDuck/MySQLMonitor)
+- [easyXssPayload：XssPayload List for Fuzzing](https://github.com/TheKingOfDuck/easyXssPayload)
+- [burpFakeIP：一个用于伪造ip地址进行爆破的Burp Suite插件](https://github.com/TheKingOfDuck/burpFakeIP)
+
 2020-01-02
 
 - [FOFA Pro View：FOFA Pro 资产展示浏览器插件](https://github.com/0nise/fofa_view)
@@ -72,6 +80,7 @@
 - [密码相关工具](#密码相关工具)
 - [BurpSuite相关工具](#BurpSuite相关工具)
 - [数据分析](#数据分析)
+- [效率工具](#效率工具)
 - [其他安全工具](#其他安全工具)
 
 ## 安全知识大综合
@@ -165,6 +174,8 @@
 - [TrackRay:溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）](https://github.com/iSafeBlue/TrackRay)
 - [saucerframe:python3批量poc检测工具](https://github.com/saucer-man/saucerframe)
 - [FOFA Pro View：FOFA Pro 资产展示浏览器插件](https://github.com/0nise/fofa_view)
+- [fuzz_dict:常用的一些fuzz及爆破字典，欢迎大神继续提供新的字典及分类。](https://github.com/TuuuNya/fuzz_dict)
+- [fuzzDicts：Web Pentesting Fuzz 字典](https://github.com/TheKingOfDuck/fuzzDicts)
 
 ## 红队
 - [Covenant:Covenant is a collaborative .NET C2 framework for red teamers](https://github.com/cobbr/Covenant)
@@ -188,6 +199,7 @@
 - [Javascript-Backdoor:Learn from Casey Smith @subTee](https://github.com/3gstudent/Javascript-Backdoor)
 - [Bypass_Disable_functions_Shell:一个各种方式突破Disable_functions达到命令执行的shell](https://github.com/l3m0n/Bypass_Disable_functions_Shell)
 - [DirBrute:多线程WEB目录爆破工具](https://github.com/Xyntax/DirBrute)
+- [easyXssPayload：XssPayload List for Fuzzing](https://github.com/TheKingOfDuck/easyXssPayload)
 
 ## 各语言代码审计
 
@@ -249,18 +261,22 @@
 - [Passive Scan Client：Burp被动扫描流量转发插件](https://github.com/c0ny1/passive-scan-client)
 - [chunked-coding-converter:Burp suite 分块传输辅助插件](https://github.com/c0ny1/chunked-coding-converter)
 - [reCAPTCHA:自动识别图形验证码并用于burp intruder爆破模块的插件](https://github.com/bit4woo/reCAPTCHA)
+- [burpFakeIP：一个用于伪造ip地址进行爆破的Burp Suite插件](https://github.com/TheKingOfDuck/burpFakeIP)
 
 ## 数据分析
 - [sec_profile:爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号](https://github.com/tanjiti/sec_profile)
 
+## 效率工具
+- [一些常用的Python脚本](https://github.com/fupinglee/MyPython)
+- [FileMonitor：文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)](https://github.com/TheKingOfDuck/FileMonitor)
+- [MySQLMonitor：MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)](https://github.com/TheKingOfDuck/MySQLMonitor)
+
 ## 其他安全工具
 - [mooder:Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台](https://github.com/phith0n/mooder)
-- [fuzz_dict:常用的一些fuzz及爆破字典，欢迎大神继续提供新的字典及分类。](https://github.com/TuuuNya/fuzz_dict)
 - [teemo:A Domain Name & Email Address Collection Tool](https://github.com/bit4woo/teemo)
 - [SuperWeChatPC:超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK](https://github.com/anhkgg/SuperWeChatPC)
 - [RGPerson:随机身份生成脚本](https://github.com/gh0stkey/RGPerson)
 - [opencanary_web:The web management platform of honeypot](https://github.com/p1r06u3/opencanary_web)
-- [一些常用的Python脚本](https://github.com/fupinglee/MyPython)
 - [CyberSecurityRSS:优秀的个人情报来源](https://github.com/zer0yu/CyberSecurityRSS)
 - [slides:The slides I have ever presented](https://github.com/A7um/slides)
 - [mylamour的issues](https://github.com/mylamour/blog/issues)
